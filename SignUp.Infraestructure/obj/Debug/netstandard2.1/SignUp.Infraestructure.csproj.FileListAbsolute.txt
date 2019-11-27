@@ -1,0 +1,11 @@
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\bin\Debug\netstandard2.1\SignUp.Infraestructure.deps.json
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\bin\Debug\netstandard2.1\SignUp.Infraestructure.dll
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.csprojAssemblyReference.cache
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.AssemblyInfoInputs.cache
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.AssemblyInfo.cs
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\bin\Debug\netstandard2.1\SignUp.Infraestructure.pdb
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.dll
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.pdb
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\bin\Debug\netstandard2.1\SignUp.Domain.dll
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\bin\Debug\netstandard2.1\SignUp.Domain.pdb
+C:\MyRepos\SignUp.API\SignUp.Infraestructure\obj\Debug\netstandard2.1\SignUp.Infraestructure.csproj.CopyComplete

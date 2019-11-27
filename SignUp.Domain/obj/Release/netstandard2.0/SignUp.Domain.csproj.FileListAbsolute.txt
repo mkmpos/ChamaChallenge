@@ -1,0 +1,8 @@
+C:\MyRepos\SignUp.API\SignUp.Domain\bin\Release\netstandard2.0\SignUp.Domain.deps.json
+C:\MyRepos\SignUp.API\SignUp.Domain\bin\Release\netstandard2.0\SignUp.Domain.dll
+C:\MyRepos\SignUp.API\SignUp.Domain\bin\Release\netstandard2.0\SignUp.Domain.pdb
+C:\MyRepos\SignUp.API\SignUp.Domain\obj\Release\netstandard2.0\SignUp.Domain.csprojAssemblyReference.cache
+C:\MyRepos\SignUp.API\SignUp.Domain\obj\Release\netstandard2.0\SignUp.Domain.AssemblyInfoInputs.cache
+C:\MyRepos\SignUp.API\SignUp.Domain\obj\Release\netstandard2.0\SignUp.Domain.AssemblyInfo.cs
+C:\MyRepos\SignUp.API\SignUp.Domain\obj\Release\netstandard2.0\SignUp.Domain.dll
+C:\MyRepos\SignUp.API\SignUp.Domain\obj\Release\netstandard2.0\SignUp.Domain.pdb
